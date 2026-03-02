@@ -27,3 +27,6 @@ rutube.ru###ADFOX_FEED_BANNER
 
 vk.com##div[data-testid="feed_apps_right_block"]
 vk.com###feed_recommends
+vk.com###ads_wrapper
+vk.com###ads_with_extra
+vk.com###ads_leftmenu
