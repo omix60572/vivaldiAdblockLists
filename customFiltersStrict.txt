@@ -15,3 +15,10 @@ mail.ru##.feed__content
 avito.ru##[data-marker*="top-notification"]
 
 disk.yandex.ru##.top-direct-line
+
+rutube.ru##.search-result-module__shortsCarouselWrapper
+rutube.ru##section[aria-label="Shorts"]
+rutube.ru##section[aria-label="Выбор RUTUBE"]
+rutube.ru##.safe-mode-header-entrypoint-module__entrypoint
+rutube.ru##.wdp-carousel-module__carouselWrapper
+rutube.ru##.wdp-popup-overlay-module__overlay
