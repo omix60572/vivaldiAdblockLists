@@ -4,6 +4,7 @@ live.vkvideo.ru##[class*="Footer_container"]
 live.vkvideo.ru##[class*="ChannelsHistory_items"]
 
 ya.ru##.Distribution-Popup
+ya.ru##.DistributionPopup
 ya.ru##.body__feed-wrapper
 ya.ru##.plus-link
 ya.ru##li[class*="item_id_alice_tile"]
