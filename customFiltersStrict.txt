@@ -13,3 +13,5 @@ mail.ru###feed-tabs
 mail.ru##.feed__content
 
 avito.ru##[data-marker*="top-notification"]
+
+disk.yandex.ru##.resources-action-bar

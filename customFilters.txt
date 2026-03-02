@@ -19,3 +19,5 @@ mail.rambler.ru##[class*="AddBillboard-root"]
 avito.ru##[class*="advert-serp-block-wrapper"]
 avito.ru##[class*="index-advRootWidgetNoStories"]
 avito.ru##[class*="advert-mimicry-block-wrapper"]
+
+disk.yandex.ru##.root__bottom-ad
