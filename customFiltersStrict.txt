@@ -41,3 +41,5 @@ vkvideo.ru##div[data-testid="videos_showcase_list_showcase_horizontal_cards_for_
 
 vk.com##.stories_feed_wrap
 vk.com##.StoryFeedBlockWrapper
+vk.com##.EasterEggsContainer
+vk.com###fastchat-reforged
