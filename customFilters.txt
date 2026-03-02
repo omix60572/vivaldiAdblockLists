@@ -9,3 +9,7 @@ ya.ru##.body__feed-wrapper
 ya.ru##.plus-link
 ya.ru##li[class*="item_id_alice_tile"]
 ya.ru##.DistributionLinkBro
+
+mail.ru##.balloon_ad-info
+
+twitch.tv##.front-page-carousel
