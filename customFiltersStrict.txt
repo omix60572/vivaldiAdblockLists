@@ -11,3 +11,5 @@ mail.yandex.ru##div[data-testid="page-layout_right-column_container"]
 mail.ru##.dzen-feed
 mail.ru###feed-tabs
 mail.ru##.feed__content
+
+avito.ru##[data-marker*="top-notification"]
