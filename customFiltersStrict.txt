@@ -52,6 +52,3 @@ hh.ru##.HH-ProxyExternalServiceLoader-careerPlatformFront
 hh.ru##div[class*="footer-mobile-banner"]
 hh.ru##div[class*="footer-app-banner-redesign"]
 hh.ru##span[data-qa="footer-recommendTechInfo"]
-
-reddit.com##[source="xpromo"]
-reddit.com##[noun="right_rail_auth"]
