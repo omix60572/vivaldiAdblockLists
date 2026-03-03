@@ -1,3 +1,6 @@
+[Adblock Plus 2.0]
+! Title: omix60572 vivaldiAdblockLists strict
+
 mail.yandex.ru##.MenuItem_get-premium360
 mail.yandex.ru##.promozavr-anchor-serviceAliceProButton
 mail.yandex.ru##.promozavr-anchor-carousel-banner
