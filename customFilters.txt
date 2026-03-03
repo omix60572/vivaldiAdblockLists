@@ -35,3 +35,5 @@ yandex.ru##.DistributionPopup
 yandex.ru##.banner
 yandex.ru###banner
 yandex.ru##div[aria-label="Рекламный баннер"]
+
+reddit.com###right-rail-experience-root
