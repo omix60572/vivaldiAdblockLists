@@ -34,3 +34,4 @@ vk.com###ads_leftmenu
 yandex.ru##.DistributionPopup
 yandex.ru##.banner
 yandex.ru###banner
+yandex.ru##div[aria-label="Рекламный баннер"]
