@@ -51,6 +51,7 @@ vk.com###fastchat-reforged
 yandex.ru##.ImageGeneration
 yandex.ru##.JustifierRowLayout-Incut
 yandex.ru##.SearchPrevention
+yandex.ru##div[data-ssr-uid="4-3"]
 
 hh.ru##.HH-ProxyExternalServiceLoader-careerPlatformFront
 hh.ru##div[class*="footer-mobile-banner"]
