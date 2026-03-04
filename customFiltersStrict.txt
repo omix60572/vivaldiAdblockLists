@@ -58,3 +58,8 @@ hh.ru##div[class*="footer-app-banner-redesign"]
 hh.ru##span[data-qa="footer-recommendTechInfo"]
 
 translate.yandex.ru##.side-block
+
+habr.com##.tm-header__feature
+habr.com##.tm-widget-banner-content
+habr.com##div[data-test-id="company-card-top-image"]
+habr.com##section[type="banner"]
