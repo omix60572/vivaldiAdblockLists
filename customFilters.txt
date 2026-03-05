@@ -40,3 +40,6 @@ yandex.ru###banner
 yandex.ru##div[aria-label="Рекламный баннер"]
 
 reddit.com###right-rail-experience-root
+
+dzen.ru##div[class*="dzen-desktop--corner-banner"]
+dzen.ru##div[data-testid="ad-banner"]
