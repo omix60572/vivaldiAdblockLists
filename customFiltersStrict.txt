@@ -74,3 +74,5 @@ kinopoisk.ru##.ReactModalPortal
 kinopoisk.ru##div[class*="adfoxSpecialPopup"]
 kinopoisk.ru##div[class*="plusBadgeCounter"]
 kinopoisk.ru##div[class*="footerContainer"]
+kinopoisk.ru##div[aria-label="Промо"]
+kinopoisk.ru##div[class*="styles_abbreviated"]
