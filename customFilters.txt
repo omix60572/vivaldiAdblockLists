@@ -3,12 +3,9 @@
 
 live.vkvideo.ru##[class*="CatalogShowcase_container"], [class*="ChannelsRecommendations"], [class*="Footer_container"], [class*="ChannelsHistory_items"]
 
-ya.ru##.Distribution-Popup
-ya.ru##.DistributionPopup
-ya.ru##.body__feed-wrapper
-ya.ru##.plus-link
-ya.ru##li[class*="item_id_alice_tile"]
-ya.ru##.DistributionLinkBro
+yandex.ru, ya.ru, disk.yandex.ru##.DistributionPopup, .banner, #banner, div[aria-label="Рекламный баннер"], .DistributionLinkBro, .plus-link, li[class*="item_id_alice_tile"], .body__feed-wrapper
+
+dzen.ru##div[class*="dzen-desktop--corner-banner"], div[class*="dzen-desktop--top-app__bannerMain"], [data-testid="ad-banner"], #ya-dist-link_bro
 
 mail.ru##.balloon_ad-info
 
@@ -16,29 +13,10 @@ twitch.tv##.front-page-carousel
 
 mail.rambler.ru##[class*="AddBillboard-root"]
 
-avito.ru##[class*="advert-serp-block-wrapper"]
-avito.ru##[class*="index-advRootWidgetNoStories"]
-avito.ru##[class*="advert-mimicry-block-wrapper"]
+avito.ru##[class*="advert-serp-block-wrapper"], [class*="index-advRootWidgetNoStories"], [class*="advert-mimicry-block-wrapper"]
 
-disk.yandex.ru##.root__bottom-ad
+rutube.ru##.premium-subscription-entrypoint-module__premium-entrypoint, #ADFOX_FEED_BANNER
 
-rutube.ru##.premium-subscription-entrypoint-module__premium-entrypoint
-rutube.ru###ADFOX_FEED_BANNER
-
-vk.com##div[data-testid="feed_apps_right_block"]
-vk.com###feed_recommends
-vk.com###ads_wrapper
-vk.com###ads_with_extra
-vk.com###ads_leftmenu
-
-yandex.ru##.DistributionPopup
-yandex.ru##.banner
-yandex.ru###banner
-yandex.ru##div[aria-label="Рекламный баннер"]
+vk.com##div[data-testid="feed_apps_right_block"], #feed_recommends, #ads_wrapper, #ads_with_extra, #ads_leftmenu
 
 reddit.com###right-rail-experience-root
-
-dzen.ru##div[class*="dzen-desktop--corner-banner"]
-dzen.ru##div[class*="dzen-desktop--top-app__bannerMain"]
-dzen.ru##div[data-testid="ad-banner"]
-dzen.ru###ya-dist-link_bro
